@@ -3,6 +3,7 @@ Rencana kontent
 -javascript
  - es6
  - framework
+    Angular
     vue
     react
 - fundamental data structur
