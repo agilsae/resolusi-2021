@@ -1,6 +1,8 @@
 Rencana kontent
 
 -javascript
+ - es6
+ - framework
 -php framework
 -interview
 -Vlogs
