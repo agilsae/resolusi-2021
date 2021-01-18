@@ -4,6 +4,7 @@ Rencana kontent
  - es6
  - framework
     vue
+    react
 - fundamental data structur
 -php framework
   laravel
