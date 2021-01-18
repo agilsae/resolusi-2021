@@ -3,7 +3,10 @@ Rencana kontent
 -javascript
  - es6
  - framework
+    vue
 - fundamental data structur
 -php framework
+  laravel
 -interview
 -Vlogs
+-python
