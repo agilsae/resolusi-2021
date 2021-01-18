@@ -3,9 +3,12 @@ Rencana kontent
 -javascript
  - es6
  - framework
-   Angular
-   React
+    Angular
+    vue
+    react
+- fundamental data structur
 -php framework
- Laravel
+  laravel
 -interview
 -Vlogs
+-python
